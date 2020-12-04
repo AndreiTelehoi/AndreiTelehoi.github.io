@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="" />
+    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.0'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kyOKL6RHToo1xJfARbJQMYuyOU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,12 +63,24 @@
       <workItem from="1606855690739" duration="134000" />
       <workItem from="1606929905785" duration="9170000" />
       <workItem from="1607007861275" duration="11129000" />
-      <workItem from="1607089143632" duration="9507000" />
+      <workItem from="1607089143632" duration="10575000" />
     </task>
+    <task id="LOCAL-00001" summary="'v1.0'">
+      <created>1607109914001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607109914001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'v1.0'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'v1.0'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607109127421">
@@ -72,13 +91,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="252" y="207" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607104477306" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1607109983435">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607109983435" />
     <state x="541" y="171" width="597" height="735" key="find.popup" timestamp="1607033711060">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="541" y="171" width="597" height="735" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1607033711060" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1607108248917">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1607110228242">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1607108248917" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1607110228242" />
   </component>
 </project>
