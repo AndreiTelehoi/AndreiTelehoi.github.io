@@ -1082,7 +1082,7 @@ section {
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #999;
+  color: #000;
 }
 
 #contact .contact-info a {
@@ -1242,18 +1242,6 @@ section {
   text-align: center;
   font-size: 13px;
   color: #ddd;
-}
-
-#header .logo {
-  font-size: 34px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  letter-spacing: 3px;
-  padding-left: 10px;
-  border-left: 4px solid #18d26e;
 }
 
 #footer .logo a {
