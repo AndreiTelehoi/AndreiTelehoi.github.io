@@ -19,9 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.1'">
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/samsung.webp" afterDir="false" />
+    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.1.1'">
+      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/ccc3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/eminescu2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/santer2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/dgp2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/dragomiresti2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/moteco.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/wilo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portofolio-bg.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about-ce-facem2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/facts-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/caro.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/ccc.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/eminescu.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/santer-plane1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/santer.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/dragomiresti.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/quote-sign-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/quote-sign-right.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,21 +70,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/clients" />
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/intro-carousel" />
       <recent name="$PROJECT_DIR$/assets/img/portfolio" />
-      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/clients" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,7 +103,9 @@
       <workItem from="1606929905785" duration="9170000" />
       <workItem from="1607007861275" duration="11129000" />
       <workItem from="1607089143632" duration="12975000" />
-      <workItem from="1607189456505" duration="1940000" />
+      <workItem from="1607189456505" duration="2145000" />
+      <workItem from="1607639238708" duration="275000" />
+      <workItem from="1607800939725" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="'v1.0'">
       <created>1607109914001</created>
@@ -141,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607192385924</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="'v1.1.1'">
+      <created>1607193063546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607193063546</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +186,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'v1.0'" />
@@ -167,21 +197,22 @@
     <MESSAGE value="'v1.0.5'" />
     <MESSAGE value="'v1.0.6'" />
     <MESSAGE value="'v1.1'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'v1.1'" />
+    <MESSAGE value="'v1.1.1'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'v1.1.1'" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607109127421">
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607808266820">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607109127421" />
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607808266820" />
     <state x="252" y="207" key="SettingsEditor" timestamp="1607104477307">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="252" y="207" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607104477306" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1607192389308">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1607193068939">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607192389308" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607193068939" />
     <state x="541" y="171" width="597" height="735" key="find.popup" timestamp="1607033711060">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

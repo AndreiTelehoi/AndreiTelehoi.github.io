@@ -157,6 +157,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #18d26e;
 }
 
+.nav-menu .years{
+  color: #18d26e;
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .nav-menu .sign{
   font-size: 16px;
 }
@@ -833,7 +839,7 @@ section {
 --------------------------------*/
 #portofoliu {
   padding: 60px 0;
-  background: url("../img/facts-bg.jpg") center top no-repeat fixed;
+  background: url("../img/portofolio-bg.webp") center top no-repeat fixed;
   background-size: cover;
   position: relative;
 }
