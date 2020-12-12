@@ -20,27 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.1.1'">
-      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/ccc3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/eminescu2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/intro-carousel/santer2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/dgp2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/dragomiresti2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/moteco.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/wilo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portofolio-bg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about-ce-facem2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/facts-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/caro.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/ccc.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/eminescu.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/santer-plane1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-carousel/santer.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/dragomiresti.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/quote-sign-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/quote-sign-right.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +85,7 @@
       <workItem from="1607189456505" duration="2145000" />
       <workItem from="1607639238708" duration="275000" />
       <workItem from="1607800939725" duration="3441000" />
+      <workItem from="1607814811262" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="'v1.0'">
       <created>1607109914001</created>
