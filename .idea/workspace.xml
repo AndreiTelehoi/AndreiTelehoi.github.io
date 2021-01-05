@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.1.1'">
+    <list default="true" id="ada2746b-0b19-42c5-a9ba-4a32b2abf506" name="Default Changelist" comment="'v1.1.2'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -89,6 +89,8 @@
       <workItem from="1607814811262" duration="45000" />
       <workItem from="1607881820413" duration="140000" />
       <workItem from="1608142696849" duration="61000" />
+      <workItem from="1609235166060" duration="62000" />
+      <workItem from="1609839791641" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="'v1.0'">
       <created>1607109914001</created>
@@ -153,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607193063546</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="'v1.1.2'">
+      <created>1609235207303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609235207303</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +190,8 @@
     <MESSAGE value="'v1.0.6'" />
     <MESSAGE value="'v1.1'" />
     <MESSAGE value="'v1.1.1'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'v1.1.1'" />
+    <MESSAGE value="'v1.1.2'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'v1.1.2'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607808266820">
@@ -192,10 +202,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="252" y="207" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607104477306" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1607193068939">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1609235214981">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607193068939" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1609235214981" />
     <state x="541" y="171" width="597" height="735" key="find.popup" timestamp="1607033711060">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
